@@ -1,8 +1,6 @@
 # Android Developer
 
 ## Key Skills & Technologies:
-🛠️ **Key Skills & Technologies:**
-
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
